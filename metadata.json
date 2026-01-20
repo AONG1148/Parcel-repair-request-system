@@ -1,0 +1,5 @@
+{
+  "name": "Parcel Repair Request",
+  "description": "A modern Parcel Repair Request System for vocational students, integrated with Google Sheets and Gemini AI for symptom analysis.",
+  "requestFramePermissions": []
+}
